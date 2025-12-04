@@ -50,3 +50,10 @@ body{
     color: white;
     border: none;
 }
+
+@media  screen and (max-width:375px) {
+    .container{
+        height: 30vh;
+        margin: 25% 0 25% 0 ;
+    }
+}
